@@ -30,3 +30,8 @@ if False:
 if kindabool.kinda_bool.KindaBool(1):  # constructor takes an int from 1-5
     print("This will never be printed")
 ```
+
+## Installation
+```bash
+pip install kindabool
+```
